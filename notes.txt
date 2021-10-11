@@ -1,3 +1,7 @@
 Sub Properties for animation 
 
 1 animation-name: Tells the browsers what CSS rule to use 
+2: animation-duration: How much time it takes for one cycle to complete 
+3: animation-timing-function: acceleration curve of the animation 
+4: animation-iteration-count: how many times the animation should be performed
+5: Allows us to combine name, duration and iteration count  
