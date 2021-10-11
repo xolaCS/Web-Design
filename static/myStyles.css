@@ -9,6 +9,11 @@
     /* animation: onPageLoad 3s infinite; */
 }
 
+button {
+    width: 250px; 
+    height:auto; 
+}
+
 #myCircle {
     height: 200px;
     width: 200px; 
@@ -16,7 +21,8 @@
     margin: auto; 
     animation-name: stretchCircle;
     animation-iteration-count: infinite;
-    animation-duration:3s; 
+    animation-duration:20s; 
+    animation-timing-function: ease-in-out;
 }
 
 @keyframes stretchCircle {
@@ -29,7 +35,7 @@
         background-color:orange; 
     } 
     100% {
-        transform: scale(5); 
+        transform: scale(1); 
         background-color:black; 
     }
 }
