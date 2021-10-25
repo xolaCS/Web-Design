@@ -1,3 +1,6 @@
+Animation and Forms
+--------------------------------
+
 Sub Properties for animation 
 
 1 animation-name: Tells the browsers what CSS rule to use 
@@ -21,3 +24,28 @@ https://css-tricks.com/almanac/properties/a/animation/
 Forms:
 
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element#forms
+
+Bootstrap 
+
+--------------------------------
+
+- Front End Framework for UIs and themes
+- HTML, CSS , And JavaScript
+- Built for responsive , mobile-first web application 
+- Most popular front end framework by far
+    - https://getbootstrap.com/docs/5.1/components/navbar/
+    - https://developer.apple.com/design/
+    - https://material.io/design
+
+
+HTML, CSS Components & Helpers 
+
+- Navbar and dropdowns 
+- Lists and List Groups 
+- Typography 
+- Jumbotron 
+- Alerts and Progress 
+- Forms and inputs 
+- Buttons and
+- Responsive Utilities 
+
